@@ -1,3 +1,7 @@
 .*
 !.gitignore
-
+dist/
+node_modules/
+ops/
+generated/
+__pycache__/
