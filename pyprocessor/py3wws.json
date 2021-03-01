@@ -1,0 +1,14 @@
+{
+  "instances": {
+      "default": {
+          "host": "WWS_HOSTNAME",
+          "basic_auth": "username:pwd@",
+          "broker": {
+            "host": "broker.WWS_HOSTNAME"
+          }
+      }
+  },
+  "processor": {
+    "queue_name": "YOUR_USERNAME-upper"
+  }
+}
